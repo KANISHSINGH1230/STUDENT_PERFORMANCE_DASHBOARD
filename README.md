@@ -1,7 +1,7 @@
 # 🎓 Student Performance Analytics Dashboard
 
 <p align = "center">
- <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/STUDENT%20PERFORMANCE.png"        widh ="100%" alt = "student performance">
+ <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/STUDENT%20PERFORMANCE.png      "widh ="100%" alt = "student performance">
 
 
 
