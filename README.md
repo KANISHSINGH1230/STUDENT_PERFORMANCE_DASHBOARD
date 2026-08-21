@@ -7,6 +7,12 @@
 <p align = "center">
  <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/BEHAVIOR%20VIEW.png        "widh ="100%" alt = "student performance">
 
+<p align = "center">
+ <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/student%20profile.png       "widh ="100%" alt = "student profile">
+
+<p align = "center">
+ <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/TOOLTIP.png                "widh ="100%" alt = "tooltip">
+
 ## 📊 Power BI Dashboard
 
 An interactive **Student Performance Analytics Dashboard** built with **Microsoft Power BI** to analyze students' academic performance, attendance, and behavioral patterns.
