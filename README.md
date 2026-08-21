@@ -151,25 +151,7 @@ This dashboard can help teachers, schools, and academic administrators:
 
 ---
 
-## 📷 Dashboard Preview
 
-### Academic Performance Dashboard
-
-![Student Performance Dashboard](STUDENT%20PERFORMANCE.png)
-
-### Student Profile / Tooltip
-
-![Student Profile](student%20profile.png)
-
-### Behavioral View
-
-![Behavioral View](BEHAVIOR%20VIEW.png)
-
-### Performance Tooltip
-
-![Performance Tooltip](TOOLTIP.png)
-
----
 
 ## 📂 Project Structure
 
