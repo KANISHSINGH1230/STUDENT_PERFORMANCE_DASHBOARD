@@ -4,6 +4,8 @@
  <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/STUDENT%20PERFORMANCE.png      "widh ="100%" alt = "student performance">
 
 
+<p align = "center">
+ <image src = https://github.com/KANISHSINGH1230/STUDENT_PERFORMANCE_DASHBOARD/blob/main/IMAGE/BEHAVIOR%20VIEW.png        "widh ="100%" alt = "student performance">
 
 ## 📊 Power BI Dashboard
 
